@@ -1,3 +1,5 @@
+<img width="1366" height="669" alt="image" src="https://github.com/user-attachments/assets/72293342-0c59-4fe7-83cc-af5e7fea6eb6" />
+
 Sales Dashboard
 📊 Project Overview
 This project presents an interactive Sales Dashboard designed to analyze and visualize sales performance across multiple dimensions. It provides actionable insights into customer behavior, seasonal trends, and category contributions, enabling data-driven decision making.
